@@ -3,9 +3,10 @@
 <hr />
 <h2>Documentation</h2>
 <ol>
-   <li>1.- </li>
-   <li>1.- </li>
-   <li>1.- </li>
-   <li>1.- </li>
+   <li> (dataset_diccionario.csv) - Conjunto de nombres y apellidos extraidos del dataset_original para comparación</li>
+   <li> (dataset_normalizado.xlsx) - Conjunto resultante con nombres y apellidos normalizados y acentos  </li>
+   <li> (dataset_original.xlsx) - Conjunto de datos originales con errores de Mayusculas, apellidos sin acentos </li>
+   <li> (normalizacion_copia.py) - Código para limpieza y normalización del conjunto de datos</li>
+   <li> (readme.txt) - Lista de librerias necesarias para funcionamiento</li>
 </ol>
 
