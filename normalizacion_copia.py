@@ -1,7 +1,9 @@
+# Author: Gabriel Martínez Vazquez
+# Date: 14-08-2026
+
 # ------------------------------------------------------------
 # NORMALIZACIÓN DE NOMBRES Y APELLIDOS
 # ------------------------------------------------------------
-
 
 # Importamos la librería pandas para trabajar con
 # estructuras de datos y archivos de Excel.
