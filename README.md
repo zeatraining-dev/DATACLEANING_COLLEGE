@@ -2,10 +2,10 @@
 <p>This Python solution converts first and last names from uppercase to lowercase. It also allows names or surnames lacking accents to have them added.</p>
 <hr />
 <h2>Documentation</h2>
-<ul>
+<ol>
    <li>1.- </li>
    <li>1.- </li>
    <li>1.- </li>
    <li>1.- </li>
-</ul>
+</ol>
 
