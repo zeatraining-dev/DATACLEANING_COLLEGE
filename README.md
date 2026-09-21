@@ -10,3 +10,6 @@
    <li> (readme.txt) - Lista de librerias necesarias para funcionamiento</li>
 </ol>
 
+<h2>Pasos a seguir</h2>
+
+1.- Ejecutar el archivo normalizacion_copia.py
