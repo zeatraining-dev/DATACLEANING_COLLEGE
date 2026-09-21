@@ -12,7 +12,7 @@
 
 <h2>Pasos a seguir</h2>
 
-
+1. Install library
 ```bash
    pip install openpyml
 ```
